@@ -1,4 +1,7 @@
-# test coverage for  [semantic-release-cli (v3.0.3)](https://github.com/semantic-release/cli)  [![npm package](https://img.shields.io/npm/v/npmtest-semantic-release-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semantic-release-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semantic-release-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-semantic-release-cli)
+# npmtest-semantic-release-cli
+
+#### basic test coverage for  [semantic-release-cli (v3.0.3)](https://github.com/semantic-release/cli)  [![npm package](https://img.shields.io/npm/v/npmtest-semantic-release-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semantic-release-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semantic-release-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-semantic-release-cli)
+
 #### setup automated semver compliant package publishing
 
 [![NPM](https://nodei.co/npm/semantic-release-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/semantic-release-cli)
